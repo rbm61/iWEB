@@ -388,3 +388,6 @@ FodyWeavers.xsd
 # JetBrains Rider
 .idea/
 *.sln.iml
+Dasher/obj/Dasher.csproj.nuget.g.props
+Dasher/obj/project.assets.json
+Dasher/obj/Debug/net5.0/Dasher.GeneratedMSBuildEditorConfig.editorconfig
